@@ -1,4 +1,4 @@
-# Grand Theft Auto VI — Leaked Retail Build
+# Grand Theft Auto VI — Leaked Retail  Build
 
 ⚠️ **This repository contains a leaked retail build of Grand Theft Auto VI.**  
 ⚠️ Uploaded ahead of the official release.
